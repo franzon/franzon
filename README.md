@@ -5,7 +5,7 @@ I'm Jorge, a full-stack web developer from Brazil 🇧🇷
 - 🚀 I'm currently working with Java, React and React Native at [Gredom Sistemas](https://www.gredom.com.br/)
 - 🎓 I'm on my last year as an BSc Computer Sciente undergraduate student at [UTFPR](http://www.utfpr.edu.br/)
 - 📘 I'm studying about domain-driven design, clean code and microservices
-- 💻 Most of the time I develop with Java and JavaScript, but also love exploring new languages
+- 💻 Most of the time I develop using Java and JavaScript, but also love exploring new languages
 
 
 🤝🏻 Contact me at:
