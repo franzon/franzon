@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hey! :wave:
 
-<!--
-**franzon/franzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jorge, a full-stack web developer from Brazil 🇧🇷
 
-Here are some ideas to get you started:
+- 🚀 I'm currently working at [Gredom Sistemas](https://www.gredom.com.br/)
+- 🎓 I'm on my last year as an BSc Computer Sciente undergraduate student at [UTFPR](http://www.utfpr.edu.br/)
+- 📘 I'm studying about domain-driven design, clean code and microservices
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Contact me at
+
+- [:briefcase: LinkedIn](https://www.linkedin.com/in/jorgefzrossi/)
+- ✉️ jorgefzrossi@gmail.com
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franzon&layout=compact&theme=tokyonight&hide=dart)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franzon&count_private=true&show_icons=true&theme=tokyonight)
