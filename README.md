@@ -1,6 +1,6 @@
 ### Hey! :wave:
 
-I'm Jorge, a full-stack web developer from Brazil 🇧🇷
+I'm Jorge, a Full Stack web developer from Brazil
 
 - 🚀 I'm currently working with Java, React and React Native at [Gredom Sistemas](https://www.gredom.com.br/)
 - 🎓 I'm on my last year as an BSc Computer Sciente undergraduate student at [UTFPR](http://www.utfpr.edu.br/)
