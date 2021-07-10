@@ -1,12 +1,10 @@
 ### Hey! :wave:
 
-I'm Jorge, a Full Stack web developer from Brazil
+I'm Jorge, a developer based on Brazil
 
-- 🚀 I'm currently working with Java, React and React Native at [Gredom Sistemas](https://www.gredom.com.br/)
-- 🎓 I'm on my last year as an BSc Computer Sciente undergraduate student at [UTFPR](http://www.utfpr.edu.br/)
-- 📘 I'm studying about domain-driven design, clean code and microservices
-- 💻 Most of the time I develop using Java and JavaScript, but also love exploring new languages
-
+- 🚀 Application developer at [IBM](https://ibm.com)
+- 🎓 Bachelor's degree in Computer Science from [UTFPR](http://www.utfpr.edu.br/)
+- 📘 Studying about domain-driven design, clean code and microservices
 
 🤝🏻 Contact me at:
 
