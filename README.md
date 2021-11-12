@@ -4,7 +4,6 @@ I'm Jorge, a developer based on Brazil
 
 - 🚀 Application developer at [IBM](https://ibm.com)
 - 🎓 Bachelor's degree in Computer Science from [UTFPR](http://www.utfpr.edu.br/)
-- 📘 Studying about domain-driven design, clean code and microservices
 
 🤝🏻 Contact me at:
 
